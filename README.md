@@ -1,3 +1,5 @@
+# How to get started:
+
 import discord
 from discord.ext import commands
 from bs4 import BeautifulSoup
